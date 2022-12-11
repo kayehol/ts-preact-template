@@ -1,7 +1,7 @@
 {
   "name": "ts-preact-template",
   "version": "1.0.0",
-  "description": "A template to start a new project with Preact and Typescrip",
+  "description": "A template to start a new project with Preact and Typescript",
   "main": "index.js",
   "scripts": {
     "start": "esbuild --bundle --target=es2020 --sourcemap --outfile=main.js --servedir=. main.tsx",
