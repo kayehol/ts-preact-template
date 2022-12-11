@@ -1,4 +1,5 @@
 import * as preact from 'preact';
+import { App } from './index';
 
-preact.render(<h1>hello, world</h1>, document.body);
+preact.render(<App />, document.body);
 
